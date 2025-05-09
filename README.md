@@ -4,7 +4,7 @@
 Ce projet étudie l'optimisation de la forme d'un récipient cylindrique pour minimiser la quantité de matériaux utilisés tout en maintenant un volume constant. Il s'agit d'un problème classique d'optimisation non linéaire avec des applications pratiques dans l'industrie de l'emballage, la conception de contenants, et le stockage.
 
 ## Contenu du projet
-- **`cylinder_optimization.py`** : Script Python qui résout le problème d'optimisation et génère les visualisations
+- **`optimisation.py`** : Script Python qui résout le problème d'optimisation et génère les visualisations
 - **`rapport.pdf`** : Rapport détaillé présentant la formulation mathématique, la résolution et l'analyse des résultats
 - **`figures/`** : Dossier contenant les visualisations générées
 
@@ -24,14 +24,14 @@ Le projet inclut plusieurs visualisations qui illustrent le problème et sa solu
 ## Installation et exécution
 ```bash
 # Cloner le dépôt
-git clone https://github.com/eyazouch/optimisation-cylindre.git
+git clone https://github.com/eyazouch/Cylinder-Shape-Optimization.git
 cd optimisation-cylindre
 
 # Installer les dépendances
 pip install numpy matplotlib scipy
 
 # Exécuter le script principal
-python cylinder_optimization.py
+python optimisation.py
 ```
 
 ## Contexte académique
