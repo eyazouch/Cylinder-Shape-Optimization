@@ -18,13 +18,13 @@ Le projet inclut plusieurs visualisations qui illustrent le problème et sa solu
 - Représentation de la surface d'optimisation en 3D
 
 ## Technologies utilisées
-- Python 3.x
+- Python 3.10
 - Bibliothèques : NumPy, Matplotlib, SciPy
 
 ## Installation et exécution
 ```bash
 # Cloner le dépôt
-git clone https://github.com/votre-nom/optimisation-cylindre.git
+git clone https://github.com/eyazouch/optimisation-cylindre.git
 cd optimisation-cylindre
 
 # Installer les dépendances
